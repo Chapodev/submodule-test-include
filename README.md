@@ -1,3 +1,3 @@
 # submodule-test-include
 
-Test1337
+Test
